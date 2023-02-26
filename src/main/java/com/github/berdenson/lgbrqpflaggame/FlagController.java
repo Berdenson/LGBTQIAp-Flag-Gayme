@@ -12,6 +12,7 @@ import java.net.URL;
 import java.net.URLConnection;
 
 import static com.github.berdenson.lgbrqpflaggame.Constants.DELAY_TIME;
+import static com.github.berdenson.lgbrqpflaggame.Flags.getRandomFlag;
 
 public class FlagController {
     @FXML
@@ -21,7 +22,7 @@ public class FlagController {
     @FXML
     private Button pokemonButton;
     private Thread identityThread;
-    private String gendar = "ur mom";
+    private Flag flag;
 
     public void setPhoto(URL url) {
         InputStream is = null;
@@ -38,10 +39,12 @@ public class FlagController {
     }
     @FXML
     private void revealIdentityButton() {
-        revealIdentity(gendar);
+        revealIdentity(flag.name());
     }
     @FXML
     private void newIdent() {
         revealIdentity("Press me to real the identity");
+        flag = getRandomFlag();
+        setPhoto(flag.url());
     }
 }
