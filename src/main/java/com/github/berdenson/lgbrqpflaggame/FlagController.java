@@ -2,21 +2,15 @@ package com.github.berdenson.lgbrqpflaggame;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
-import javafx.scene.image.Image;
-import javafx.scene.image.ImageView;
+import javafx.scene.web.WebView;
 
-import java.io.IOException;
-import java.io.InputStream;
-import java.net.MalformedURLException;
 import java.net.URL;
-import java.net.URLConnection;
 
-import static com.github.berdenson.lgbrqpflaggame.Constants.DELAY_TIME;
 import static com.github.berdenson.lgbrqpflaggame.Flags.getRandomFlag;
 
 public class FlagController {
     @FXML
-    private ImageView imageView;
+    private WebView flagView;
     @FXML
     private Button newFlag;
     @FXML
@@ -25,14 +19,7 @@ public class FlagController {
     private Flag flag;
 
     public void setPhoto(URL url) {
-        InputStream is = null;
-        try {
-            URLConnection urlConnection = url.openConnection();
-            is = urlConnection.getInputStream();
-        } catch (IOException e) {
-        }
-        Image image = new Image(is);
-        imageView.setImage(image);
+        flagView.getEngine().load(url.toString());
     }
     private void revealIdentity(String ident) {
         pokemonButton.setText(ident);
