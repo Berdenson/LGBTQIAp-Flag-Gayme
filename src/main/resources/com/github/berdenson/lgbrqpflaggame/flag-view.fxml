@@ -6,7 +6,7 @@
 
 <VBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.github.berdenson.lgbrqpflaggame.FlagController">
    <children>
-      <WebView fx:id="flagView" prefHeight="348.0" prefWidth="600.0" />
+      <WebView fx:id="flagView" prefHeight="348.0" prefWidth="600.0" VBox.vgrow="ALWAYS" />
       <Button fx:id="newFlag" alignment="TOP_CENTER" mnemonicParsing="false" onAction="#newIdent" prefHeight="25.0" prefWidth="643.0" text="Generate new idenity" VBox.vgrow="ALWAYS" />
       <Button fx:id="pokemonButton" mnemonicParsing="false" onAction="#revealIdentityButton" prefHeight="25.0" prefWidth="599.0" text="Whats that idenity?" />
    </children>

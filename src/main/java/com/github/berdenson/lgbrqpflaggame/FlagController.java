@@ -18,8 +18,9 @@ public class FlagController {
     private Thread identityThread;
     private Flag flag;
 
-    public void setPhoto(URL url) {
-        flagView.getEngine().load(url.toString());
+    public void setPhoto(String url) {
+        flagView.getEngine().load(url);
+        flagView.setZoom(0.5);
     }
     private void revealIdentity(String ident) {
         pokemonButton.setText(ident);

@@ -12,7 +12,7 @@ public class Flags {
 
     }
     private static void addFlag(String name, String url) {
-        flags.add(new Flag(name,HelloApplication.newURL(url)));
+        flags.add(new Flag(name,url));
     }
     public static Flag getRandomFlag() {
         Random random = new Random();
