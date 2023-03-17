@@ -45,7 +45,7 @@ public class Flags {
         return flags.get(random.nextInt(max));
     }
     private static FileReader getRes(String name) throws FileNotFoundException {
-        String path = URLDecoder.decode(String.valueOf(Flags.class.getResource(name)), StandardCharsets.UTF_8).split(":")[1];
+        String path = URLDecoder.decode(String.valueOf(Flags.class.getResource(name)), StandardCharsets.UTF_8).substring(5);
         return new FileReader(path);
 
     }
