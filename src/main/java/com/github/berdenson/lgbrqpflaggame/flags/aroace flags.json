@@ -1,0 +1,624 @@
+{
+ "flags": [
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/0/06/A-spec_aloe_vera_flag.png/revision/latest/smart/width/40/height/30?cb=20220217142610",
+   "name": "File:A-spec aloe vera flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/d/d8/A-spec_main_flag.svg/revision/latest/smart/width/40/height/30?cb=20220217141655",
+   "name": "File:A-spec main flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/9/9b/Abroromantic_flag.png/revision/latest/smart/width/40/height/30?cb=20220220003743",
+   "name": "File:Abroromantic flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/8/88/Abrosexual_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123045325",
+   "name": "File:Abrosexual Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/8/8f/Aceflux.png/revision/latest/smart/width/40/height/30?cb=20220218164553",
+   "name": "File:Aceflux.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/a/a9/Achillean_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123044402",
+   "name": "File:Achillean Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/8/8f/Aegoromantic.png/revision/latest/smart/width/40/height/30?cb=20221020134710",
+   "name": "File:Aegoromantic.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/8/86/Aegosexual.png/revision/latest/smart/width/40/height/30?cb=20220206222719",
+   "name": "File:Aegosexual.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/6/68/Agender_4-stripe_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123020041",
+   "name": "File:Agender 4-stripe Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/0/04/Agender_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123020312",
+   "name": "File:Agender Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/d/d6/Agender_Spectrum_Flag.png/revision/latest/smart/width/40/height/30?cb=20220227015427",
+   "name": "File:Agender Spectrum Flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/1/1d/Agenderflux_flag.png/revision/latest/smart/width/40/height/30?cb=20220320044638",
+   "name": "File:Agenderflux flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/6/60/Alt_Genderfluid_Flag.png/revision/latest/smart/width/40/height/30?cb=20211121045205",
+   "name": "File:Alt Genderfluid Flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/8/8e/Alternate_Xenogender_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123015020",
+   "name": "File:Alternate Xenogender Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/1/17/AlternateBigenderFlag.png/revision/latest/smart/width/40/height/30?cb=20220121085837",
+   "name": "File:AlternateBigenderFlag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/b/b9/Alternative_Pansexual_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123032316",
+   "name": "File:Alternative Pansexual Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/9/92/Androgyne_flag_2_.png/revision/latest/smart/width/40/height/30?cb=20220220082535",
+   "name": "File:Androgyne flag 2 .png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/6/6b/Androgyne_Pride_Flag.png/revision/latest/smart/width/40/height/30?cb=20220219163038",
+   "name": "File:Androgyne Pride Flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/f/f7/Androgynous_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123021344",
+   "name": "File:Androgynous Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/3/31/AndroromanticFlag.png/revision/latest/smart/width/40/height/30?cb=20220901175527",
+   "name": "File:AndroromanticFlag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/e/e3/AndrosexualFlag.png/revision/latest/smart/width/40/height/30?cb=20220817200558",
+   "name": "File:AndrosexualFlag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/8/83/Angled_Aroace_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123042304",
+   "name": "File:Angled Aroace Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/e/e0/Another_QPR_Flag.jpg/revision/latest/smart/width/40/height/30?cb=20220220102231",
+   "name": "File:Another QPR Flag.jpg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/8/81/Aplatonic_flag.png/revision/latest/smart/width/40/height/30?cb=20220314200427",
+   "name": "File:Aplatonic flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/4/48/Aporagender.png/revision/latest/smart/width/40/height/30?cb=20220219193436",
+   "name": "File:Aporagender.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/6/60/ApothiromanticFlag.png/revision/latest/smart/width/40/height/30?cb=20221101020107",
+   "name": "File:ApothiromanticFlag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/1/1e/Apothisexual.png/revision/latest/smart/width/40/height/30?cb=20220219174314",
+   "name": "File:Apothisexual.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/8/8e/Aroace_alt_design.jpg/revision/latest/smart/width/40/height/30?cb=20220615200631",
+   "name": "File:Aroace alt design.jpg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/4/43/Aroace_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123042047",
+   "name": "File:Aroace Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/f/fe/Aroaceflux.png/revision/latest/smart/width/40/height/30?cb=20220225185400",
+   "name": "File:Aroaceflux.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/9/90/AroacefluxOriginal.png/revision/latest/smart/width/40/height/30?cb=20230209214340",
+   "name": "File:AroacefluxOriginal.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/f/f2/Aroflux_Flag.png/revision/latest/smart/width/40/height/30?cb=20220219093314",
+   "name": "File:Aroflux Flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/b/b3/Aromantic_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123014434",
+   "name": "File:Aromantic Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/f/f0/Aromantic_Spectrum_Flag.png/revision/latest/smart/width/40/height/30?cb=20220215161954",
+   "name": "File:Aromantic Spectrum Flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/4/4e/Asexual_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123021606",
+   "name": "File:Asexual Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/0/09/Asexual_Spectrum_Flag.png/revision/latest/smart/width/40/height/30?cb=20220121081447",
+   "name": "File:Asexual Spectrum Flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/1/10/Autoromantic_Flag.jpg/revision/latest/smart/width/40/height/30?cb=20220221160239",
+   "name": "File:Autoromantic Flag.jpg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/7/7c/Bear_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220124003829",
+   "name": "File:Bear Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/9/92/Bigender_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123021932",
+   "name": "File:Bigender Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/d/d8/BinaryToNonBinary.png/revision/latest/smart/width/40/height/30?cb=20220617000830",
+   "name": "File:BinaryToNonBinary.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/e/e0/Biromantic_flag_%28by_pride-flags%29.png/revision/latest/smart/width/40/height/30?cb=20220220002842",
+   "name": "File:Biromantic flag (by pride-flags).png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/e/e1/Biromantic_Flag_1.png/revision/latest/smart/width/40/height/30?cb=20220217183213",
+   "name": "File:Biromantic Flag 1.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/6/6e/Biromantic_Flag1.png/revision/latest/smart/width/40/height/30?cb=20211203083415",
+   "name": "File:Biromantic Flag1.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/0/08/Bisexual_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220517083937",
+   "name": "File:Bisexual Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/0/05/Boyflux_flag.png/revision/latest/smart/width/40/height/30?cb=20220320043845",
+   "name": "File:Boyflux flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/4/4f/Ceteroromantic_flag.png/revision/latest/smart/width/40/height/30?cb=20220803170043",
+   "name": "File:Ceteroromantic flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/d/d6/Ceterosexual.jpg/revision/latest/smart/width/40/height/30?cb=20220219020012",
+   "name": "File:Ceterosexual.jpg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/a/a5/Ceterosexual2.png/revision/latest/smart/width/40/height/30?cb=20220219020109",
+   "name": "File:Ceterosexual2.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/1/18/Chevron_Queer_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123050627",
+   "name": "File:Chevron Queer Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/9/9c/Community_Lesbian_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123034127",
+   "name": "File:Community Lesbian Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/a/a9/Cougar-Lipstick-Pink.png/revision/latest/smart/width/40/height/30?cb=20211229092208",
+   "name": "File:Cougar-Lipstick-Pink.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/9/9e/Cupioromantic_flag.png/revision/latest/smart/width/40/height/30?cb=20220219093527",
+   "name": "File:Cupioromantic flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/1/14/Cupiosexual.png/revision/latest/smart/width/40/height/30?cb=20220625191733",
+   "name": "File:Cupiosexual.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/3/3a/Demiboy_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123022235",
+   "name": "File:Demiboy Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/1/1f/Demifluid.png/revision/latest/smart/width/40/height/30?cb=20220222150643",
+   "name": "File:Demifluid.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/e/e2/Demiflux.jpg/revision/latest/smart/width/40/height/30?cb=20220222192551",
+   "name": "File:Demiflux.jpg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/8/80/Demigender_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123022233",
+   "name": "File:Demigender Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/7/73/Demigirl_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123022231",
+   "name": "File:Demigirl Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/6/6d/Demiromantic_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123033827",
+   "name": "File:Demiromantic Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/3/37/Demisexual_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123033838",
+   "name": "File:Demisexual Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/9/9e/Diamoric_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123044101",
+   "name": "File:Diamoric Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/5/5d/Egogender_momma-mogai-sphinx.png/revision/latest/smart/width/40/height/30?cb=20220219032150",
+   "name": "File:Egogender momma-mogai-sphinx.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/c/cc/First_Aromantic_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123015559",
+   "name": "File:First Aromantic Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/c/c4/FluidFlux.png/revision/latest/smart/width/40/height/30?cb=20220403210650",
+   "name": "File:FluidFlux.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/b/b8/Frayromantic.png/revision/latest/smart/width/40/height/30?cb=20220625193244",
+   "name": "File:Frayromantic.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/3/3c/Fraysexual_flag.jpg/revision/latest/smart/width/40/height/30?cb=20220214034650",
+   "name": "File:Fraysexual flag.jpg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/d/d3/Gay_flag_Baker.svg/revision/latest/smart/width/40/height/30?cb=20220123030427",
+   "name": "File:Gay flag Baker.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/d/df/Gay_flag_seven_stripe.svg/revision/latest/smart/width/40/height/30?cb=20220123040622",
+   "name": "File:Gay flag seven stripe.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/b/bd/Gay_Men_Pride_Flag_2019.svg/revision/latest/smart/width/40/height/30?cb=20220123033432",
+   "name": "File:Gay Men Pride Flag 2019.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/0/0c/Gender_Neutral_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123041909",
+   "name": "File:Gender Neutral Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/7/75/Genderfae_flag.png/revision/latest/smart/width/40/height/30?cb=20220320032558",
+   "name": "File:Genderfae flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/5/5b/Genderfaun_flag.png/revision/latest/smart/width/40/height/30?cb=20220320033043",
+   "name": "File:Genderfaun flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/4/4a/Genderflor_flag.jpg/revision/latest/smart/width/40/height/30?cb=20220320033249",
+   "name": "File:Genderflor flag.jpg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/3/3f/Genderfluid_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123030153",
+   "name": "File:Genderfluid Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/a/a1/Genderflux_Flag.png/revision/latest/smart/width/40/height/30?cb=20220227050449",
+   "name": "File:Genderflux Flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/7/7c/Genderfuck_flag.png/revision/latest/smart/width/40/height/30?cb=20220606115502",
+   "name": "File:Genderfuck flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/3/39/Genderpunk_flag.png/revision/latest/smart/width/40/height/30?cb=20220606115852",
+   "name": "File:Genderpunk flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/c/c2/Genderqueer_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123032714",
+   "name": "File:Genderqueer Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/5/5b/Girlflux_flag.png/revision/latest/smart/width/40/height/30?cb=20220320042257",
+   "name": "File:Girlflux flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/a/a1/GrayAsexual.png/revision/latest/smart/width/40/height/30?cb=20220324001812",
+   "name": "File:GrayAsexual.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/c/c7/GrayRomantic.png/revision/latest/smart/width/40/height/30?cb=20220324005733",
+   "name": "File:GrayRomantic.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/d/dd/Greygender_Flag.png/revision/latest/smart/width/40/height/30?cb=20220227040858",
+   "name": "File:Greygender Flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/b/b0/GyneromanticFlag.png/revision/latest/smart/width/40/height/30?cb=20220901181504",
+   "name": "File:GyneromanticFlag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/4/48/GynesexualFlag.png/revision/latest/smart/width/40/height/30?cb=20220817200801",
+   "name": "File:GynesexualFlag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/8/84/Heteroqueer_Gayer9000.jpg/revision/latest/smart/width/40/height/30?cb=20220621083859",
+   "name": "File:Heteroqueer Gayer9000.jpg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/e/e5/Hijra_flag.png/revision/latest/smart/width/40/height/30?cb=20220606091915",
+   "name": "File:Hijra flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/e/e7/Intergender_Flag_2020.png/revision/latest/smart/width/40/height/30?cb=20220220091857",
+   "name": "File:Intergender Flag 2020.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/b/bb/Intersex_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123041734",
+   "name": "File:Intersex Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/d/dd/Labrys_Lesbian_Flag.svg/revision/latest/smart/width/40/height/30?cb=20211210071000",
+   "name": "File:Labrys Lesbian Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/a/a2/Lesbian_Flag_5_stripe.svg/revision/latest/smart/width/40/height/30?cb=20211204113835",
+   "name": "File:Lesbian Flag 5 stripe.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/0/0d/Lesbian_Flags_7_stripes.png/revision/latest/smart/width/40/height/30?cb=20211231065208",
+   "name": "File:Lesbian Flags 7 stripes.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/7/7d/Lesbian_Pride_Double_Venus1.svg/revision/latest/smart/width/40/height/30?cb=20211210071335",
+   "name": "File:Lesbian Pride Double Venus1.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/9/92/LGBTI_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123084856",
+   "name": "File:LGBTI Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/5/5b/Lithromantic.png/revision/latest/smart/width/40/height/30?cb=20220222183543",
+   "name": "File:Lithromantic.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/4/49/Lydia_sapphic_flag.svg/revision/latest/smart/width/40/height/30?cb=20220204172810",
+   "name": "File:Lydia sapphic flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/c/c1/Maverique_flag.png/revision/latest/smart/width/40/height/30?cb=20220219194058",
+   "name": "File:Maverique flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/3/35/MicrolabelFlag.png/revision/latest/smart/width/40/height/30?cb=20230203185251",
+   "name": "File:MicrolabelFlag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/7/7d/MOGAI_Pride_Flag.png/revision/latest/smart/width/40/height/30?cb=20220209174553",
+   "name": "File:MOGAI Pride Flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/b/b1/Monosexual.png/revision/latest/smart/width/40/height/30?cb=20220314151355",
+   "name": "File:Monosexual.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/3/3b/Multigender.png/revision/latest/smart/width/40/height/30?cb=20220304025636",
+   "name": "File:Multigender.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/a/af/Multisexual_Flag.png/revision/latest/smart/width/40/height/30?cb=20220522002239",
+   "name": "File:Multisexual Flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/c/c0/Neurogender_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123033309",
+   "name": "File:Neurogender Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/5/5a/Neutrois_Flag.png/revision/latest/smart/width/40/height/30?cb=20220607173644",
+   "name": "File:Neutrois Flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/1/1d/Non-binary_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123031152",
+   "name": "File:Non-binary Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/5/5d/Nonbinary_Boy_flag.png/revision/latest/smart/width/40/height/30?cb=20220320060004",
+   "name": "File:Nonbinary Boy flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/2/2e/Nonbinary_Girl_flag.png/revision/latest/smart/width/40/height/30?cb=20220320055809",
+   "name": "File:Nonbinary Girl flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/0/0b/Novo-original-hq.png/revision/latest/smart/width/40/height/30?cb=20220217044801",
+   "name": "File:Novo-original-hq.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/e/e3/Novosexual_alt_flag.png/revision/latest/smart/width/40/height/30?cb=20220217050345",
+   "name": "File:Novosexual alt flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/9/94/Novosexual_flag_Buniny.png/revision/latest/smart/width/40/height/30?cb=20220217045234",
+   "name": "File:Novosexual flag Buniny.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/f/f7/OldAltIntergender.png/revision/latest/smart/width/40/height/30?cb=20220403001318",
+   "name": "File:OldAltIntergender.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/a/a6/OldIntergenderFlag.png/revision/latest/smart/width/40/height/30?cb=20220403000314",
+   "name": "File:OldIntergenderFlag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/5/51/OldIntersexFlag.png/revision/latest/smart/width/40/height/30?cb=20220403004005",
+   "name": "File:OldIntersexFlag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/c/c8/Omniromantic_flag.png/revision/latest/smart/width/40/height/30?cb=20220803155935",
+   "name": "File:Omniromantic flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/a/a0/Omnisexual_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123031202",
+   "name": "File:Omnisexual Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/7/7c/Oriented_Aroace_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123042346",
+   "name": "File:Oriented Aroace Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/1/1c/Original_sapphic_flag.png/revision/latest/smart/width/40/height/30?cb=20220606092614",
+   "name": "File:Original sapphic flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/e/ef/Pangender_flag.png/revision/latest/smart/width/40/height/30?cb=20220204050214",
+   "name": "File:Pangender flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/4/48/Panromantic_Pride_Flag.png/revision/latest/smart/width/40/height/30?cb=20211208224203",
+   "name": "File:Panromantic Pride Flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/c/c3/Pansexual_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123031523",
+   "name": "File:Pansexual Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/e/e0/Philadelphia_Pride_Flag.svg/revision/latest/smart/width/40/height/30?cb=20211128170435",
+   "name": "File:Philadelphia Pride Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/e/eb/Polyamory.png/revision/latest/smart/width/40/height/30?cb=20220325004447",
+   "name": "File:Polyamory.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/f/f9/Polygender.webp/revision/latest/smart/width/40/height/30?cb=20220304025336",
+   "name": "File:Polygender.webp"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/9/97/Polyromantic_flag.png/revision/latest/smart/width/40/height/30?cb=20220220001606",
+   "name": "File:Polyromantic flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/4/48/Polyromantic.png/revision/latest/smart/width/40/height/30?cb=20220220114840",
+   "name": "File:Polyromantic.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/4/49/Polysexual_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123030926",
+   "name": "File:Polysexual Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/1/12/Pomosexual.png/revision/latest/smart/width/40/height/30?cb=20220219184435",
+   "name": "File:Pomosexual.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/b/bf/Progress_Pride_Flag1.svg/revision/latest/smart/width/40/height/30?cb=20211028215705",
+   "name": "File:Progress Pride Flag1.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/8/86/Queer_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123050613",
+   "name": "File:Queer Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/a/ad/Queerhet_Kaestral.png/revision/latest/smart/width/40/height/30?cb=20220621081751",
+   "name": "File:Queerhet Kaestral.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/1/11/Queerplatonic_attraction_flag.png/revision/latest/smart/width/40/height/30?cb=20220220101944",
+   "name": "File:Queerplatonic attraction flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/f/fc/Questioning_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123043243",
+   "name": "File:Questioning Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/0/08/Quoiromantic.png/revision/latest/smart/width/40/height/30?cb=20220222170212",
+   "name": "File:Quoiromantic.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/f/f8/Rainbow_Flag1.svg/revision/latest/smart/width/40/height/30?cb=20220123034417",
+   "name": "File:Rainbow Flag1.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/1/1f/Recipromantic.jpg/revision/latest/smart/width/40/height/30?cb=20220222165755",
+   "name": "File:Recipromantic.jpg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/a/a8/Sapphic_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123044350",
+   "name": "File:Sapphic Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/3/3b/Second_Aromantic_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123015609",
+   "name": "File:Second Aromantic Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/4/49/Sex_Worker_Inclusive_Progress_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220124003622",
+   "name": "File:Sex Worker Inclusive Progress Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/5/5c/Straight_Ally_flag.png/revision/latest/smart/width/40/height/30?cb=20220407142900",
+   "name": "File:Straight Ally flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/e/e5/The_Butch_Flag.png/revision/latest/smart/width/40/height/30?cb=20220125061532",
+   "name": "File:The Butch Flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/a/ab/The_Femme_Flag.png/revision/latest/smart/width/40/height/30?cb=20220125192618",
+   "name": "File:The Femme Flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/e/e8/Toric.png/revision/latest/smart/width/40/height/30?cb=20220225183200",
+   "name": "File:Toric.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/0/05/Transfeminine_flag.png/revision/latest/smart/width/40/height/30?cb=20220607082229",
+   "name": "File:Transfeminine flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/d/d2/Transgender_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123030646",
+   "name": "File:Transgender Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/a/a4/Transmasc_flag.png/revision/latest/smart/width/40/height/30?cb=20220922071042",
+   "name": "File:Transmasc flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/c/c6/Transmasculine_flag.png/revision/latest/smart/width/40/height/30?cb=20220605095815",
+   "name": "File:Transmasculine flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/0/01/Transmedicalist_symbol.png/revision/latest/smart/width/40/height/30?cb=20220322200428",
+   "name": "File:Transmedicalist symbol.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/6/6d/Transneutral.png/revision/latest/smart/width/40/height/30?cb=20220616233410",
+   "name": "File:Transneutral.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/8/82/Tricolor_Polyamory_Pride_Flag.png/revision/latest/smart/width/40/height/30?cb=20221123235024",
+   "name": "File:Tricolor Polyamory Pride Flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/d/dc/Trigender.jpg/revision/latest/smart/width/40/height/30?cb=20220122182509",
+   "name": "File:Trigender.jpg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/b/b1/Trixic.png/revision/latest/smart/width/40/height/30?cb=20220606195527",
+   "name": "File:Trixic.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/1/1d/Twink_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123043337",
+   "name": "File:Twink Flag.svg"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/4/4b/Two-Spirit_Flag.png/revision/latest/smart/width/40/height/30?cb=20220127080528",
+   "name": "File:Two-Spirit Flag.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/5/50/Waria.png/revision/latest/smart/width/40/height/30?cb=20220327223857",
+   "name": "File:Waria.png"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/8/82/Xenicflag2.webp/revision/latest/smart/width/40/height/30?cb=20220218233752",
+   "name": "File:Xenicflag2.webp"
+  },
+  {
+   "image": "https://static.wikia.nocookie.net/lgbtqia-sandbox/images/4/46/Xenogender_Flag.svg/revision/latest/smart/width/40/height/30?cb=20220123013726",
+   "name": "File:Xenogender Flag.svg"
+  }
+ ]
+}
