@@ -19,7 +19,7 @@ public class HelloApplication extends Application {
         System.out.println(getRandomFlag());
         FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("flag-view.fxml"));
         Scene scene = new Scene(fxmlLoader.load(), 800, 600);
-        stage.setTitle("Hello!");
+        stage.setTitle("LGBTQIA+ Flag Gayme");
         stage.setScene(scene);
         stage.show();
     }
