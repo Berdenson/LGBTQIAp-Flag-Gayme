@@ -1,0 +1,317 @@
+{
+ "identityPage": [
+  {
+   "name": "ARCflux",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/e/eb/ARCflux_flag.webp/revision/latest?cb=20211128153404"
+  },
+  {
+   "name": "Abnosexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/4/41/Abnosexual_pride_flag.png/revision/latest?cb=20220819044122"
+  },
+  {
+   "name": "Ace Loving Ace",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/5/5a/Ace_loving_Ace.webp/revision/latest?cb=20220114204242"
+  },
+  {
+   "name": "Ace lesbian",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/0/0c/Acebian.png/revision/latest?cb=20230305072018"
+  },
+  {
+   "name": "Aceallo-unsure",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/1/1c/Aceallo-unsure.webp/revision/latest?cb=20220202104358"
+  },
+  {
+   "name": "Acedependant",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/4/4b/Acedependant.jpg/revision/latest?cb=20221227060310"
+  },
+  {
+   "name": "Aceflexible",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/5/5d/Aceflexible_alternate.webp/revision/latest?cb=20211127092332"
+  },
+  {
+   "name": "Acefluid",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/b/bf/Acefluid.webp/revision/latest?cb=20211127095416"
+  },
+  {
+   "name": "Acefluix",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/9/9f/Acefluix.webp/revision/latest?cb=20211127095009"
+  },
+  {
+   "name": "Aceflux",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/3/3a/Aceflux_Symbol.webp/revision/latest?cb=20211201115944"
+  },
+  {
+   "name": "Acefog",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/b/bf/Acefog.webp/revision/latest?cb=20211108175349"
+  },
+  {
+   "name": "Aceish",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/6/69/21-09-10-2-Aceish_PNG.webp/revision/latest?cb=20211108183419"
+  },
+  {
+   "name": "Aceromantic",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/3/36/Alternate_aceromantic_flag.png/revision/latest?cb=20220930044534"
+  },
+  {
+   "name": "Acespike",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/5/5d/Th_%281%29.jpg/revision/latest?cb=20221016225927"
+  },
+  {
+   "name": "Acorsexual",
+   "flagIMG": ""
+  },
+  {
+   "name": "Adexsexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/3/38/Adexsexual.webp/revision/latest?cb=20211118103116"
+  },
+  {
+   "name": "Adfectusexual"
+  },
+  {
+   "name": "Aegofictosexual",
+   "flagIMG": ""
+  },
+  {
+   "name": "Aegosexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/d/dc/Autochorissexualflag.png/revision/latest?cb=20150617062246"
+  },
+  {
+   "name": "Aegosexualflux",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/2/28/Aegosexualflux_flag.png/revision/latest?cb=20220720044843"
+  },
+  {
+   "name": "Afluid",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/a/a3/Afluid.jpg/revision/latest?cb=20230205180307"
+  },
+  {
+   "name": "Agensexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/7/7e/Agensexual.webp/revision/latest?cb=20211116091418"
+  },
+  {
+   "name": "Agensexualflux",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/8/84/Agensexualflux.png/revision/latest?cb=20211212070955"
+  },
+  {
+   "name": "Akoisexual",
+   "flagIMG": ""
+  },
+  {
+   "name": "Alicosexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/8/83/The_second_alicosexual_flag.webp/revision/latest?cb=20211129134600"
+  },
+  {
+   "name": "Aliquasexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/9/97/Aliquasexual.webp/revision/latest?cb=20211127122256"
+  },
+  {
+   "name": "Aliquissexual"
+  },
+  {
+   "name": "Alisexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/a/a4/Alisexual_Flag.webp/revision/latest?cb=20211206154434"
+  },
+  {
+   "name": "Alloflexible",
+   "flagIMG": ""
+  },
+  {
+   "name": "Allos",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/6/67/Alloromantic.webp/revision/latest?cb=20211108181921"
+  },
+  {
+   "name": "Amantesexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/9/9d/Amantesexual_flag.png/revision/latest?cb=20221103062054"
+  },
+  {
+   "name": "Amicussexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/1/16/Amicussexual_flag.png/revision/latest?cb=20221104052302"
+  },
+  {
+   "name": "Ance-Jump",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/8/82/Ance-Jump.webp/revision/latest?cb=20211205131740"
+  },
+  {
+   "name": "Angled AroAce",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/3/32/Angled_AroAce_Flag_Redesign.png/revision/latest?cb=20221218211015"
+  },
+  {
+   "name": "Annuosexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/6/68/Annousexual_flag.png/revision/latest?cb=20220927043357"
+  },
+  {
+   "name": "Anroance",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/5/5e/Anroance.webp/revision/latest?cb=20211205124723"
+  },
+  {
+   "name": "Anseqresexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/b/bb/Anseqresexual.webp/revision/latest?cb=20211113095804"
+  },
+  {
+   "name": "Ansexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/9/95/Ansexual_flag.webp/revision/latest?cb=20211205112414"
+  },
+  {
+   "name": "Anticarnal",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/2/29/Original_Anticarnal_flag.webp/revision/latest?cb=20220109105739"
+  },
+  {
+   "name": "Apathsexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/8/8f/Apathsexual.webp/revision/latest?cb=20211206152207"
+  },
+  {
+   "name": "Apothiflexible",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/5/5c/Apothiflexible_flag.png/revision/latest?cb=20221114054920"
+  },
+  {
+   "name": "Apothisexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/2/24/Altapothi_flag.webp/revision/latest?cb=20211206125745"
+  },
+  {
+   "name": "Apothrecipro",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/3/35/Apothireciprosexual.webp/revision/latest?cb=20211206083729"
+  },
+  {
+   "name": "Apressexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/c/cd/Apressexual.webp/revision/latest?cb=20211103115826"
+  },
+  {
+   "name": "Aremsexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/c/c8/Aremsexual_flag.webp/revision/latest?cb=20211206082700"
+  },
+  {
+   "name": "AroAce",
+   "flagIMG": ""
+  },
+  {
+   "name": "AroAce-jump",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/9/90/AroAce-jump.webp/revision/latest?cb=20211206094743"
+  },
+  {
+   "name": "Aroace spectrum",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/c/cf/Aroacespec1.webp/revision/latest?cb=20211109113516"
+  },
+  {
+   "name": "Aroaceflux",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/3/38/Main-qimg-0777bdb1254a719ea770f7d1edf28f60.webp/revision/latest?cb=20211103091908"
+  },
+  {
+   "name": "Aroacespike",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/a/aa/Aroacespike_Flag.webp/revision/latest?cb=20211113100313"
+  },
+  {
+   "name": "Aromid",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/7/73/Aromid.webp/revision/latest?cb=20211223190313"
+  },
+  {
+   "name": "Arosexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/a/aa/Arosexual_flag.png/revision/latest?cb=20221021053535"
+  },
+  {
+   "name": "Asexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/8/8e/Asexual_coat_of_arms.webp/revision/latest?cb=20220123122829"
+  },
+  {
+   "name": "Asexual Biromantic",
+   "flagIMG": ""
+  },
+  {
+   "name": "Asexual Heteroromantic",
+   "flagIMG": ""
+  },
+  {
+   "name": "Asexual Homoromantic",
+   "flagIMG": ""
+  },
+  {
+   "name": "Asexual Panromantic",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/d/d8/Asexual_Panromantic_alternate_flag_with_meaning.jpg/revision/latest?cb=20220202072117"
+  },
+  {
+   "name": "Asexual Spectrum",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/9/98/Acespec.webp/revision/latest?cb=20211109113013"
+  },
+  {
+   "name": "Asexuality"
+  },
+  {
+   "name": "Asexuals Wikia"
+  },
+  {
+   "name": "Askepsisexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/f/f5/Askepsisexual_2.webp/revision/latest?cb=20211206163712"
+  },
+  {
+   "name": "Aspectussexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/a/a1/Aspectussexual_by_pride_flags.webp/revision/latest?cb=20211206165931"
+  },
+  {
+   "name": "Autochorissexual"
+  },
+  {
+   "name": "Autoflexible",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/d/d5/Autoflexible_flag.png/revision/latest?cb=20220929045824"
+  },
+  {
+   "name": "Autoresexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/a/a0/Autoresexual_.webp/revision/latest?cb=20211207102759"
+  },
+  {
+   "name": "Autosexual",
+   "flagIMG": ""
+  },
+  {
+   "name": "Bellussexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/1/1c/Bellussexual_flag.jpg/revision/latest?cb=20220927045223"
+  },
+  {
+   "name": "Black Stripe Asexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/8/80/Black_Stripe_Asexual_flag.webp/revision/latest?cb=20211206143810"
+  },
+  {
+   "name": "Blanksexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/b/b1/Blanksexual_flag.webp/revision/latest?cb=20220123111825"
+  },
+  {
+   "name": "Bottoace",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/7/75/Bottoace.webp/revision/latest?cb=20211210204612"
+  },
+  {
+   "name": "Breace",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/8/8c/Breace_flag.webp/revision/latest?cb=20211216171320"
+  },
+  {
+   "name": "Byumasexual"
+  },
+  {
+   "name": "Caedsexual",
+   "flagIMG": ""
+  },
+  {
+   "name": "Caligosexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/0/0f/Caligosexual.png/revision/latest?cb=20220831194330"
+  },
+  {
+   "name": "Causasexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/f/f8/Causasexual_flag.png/revision/latest?cb=20221204055152"
+  },
+  {
+   "name": "Chameleosexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/0/03/Chameleo.png/revision/latest?cb=20220912004451"
+  },
+  {
+   "name": "Coeosexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/2/2a/Coeosexual_flag.webp/revision/latest?cb=20211130184338"
+  },
+  {
+   "name": "Cogitarisexual",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/e/e7/Cogitarisexual.webp/revision/latest?cb=20211201170319"
+  },
+  {
+   "name": "Cupiaflux",
+   "flagIMG": "https://static.wikia.nocookie.net/asexuals/images/5/58/Cupiaflux_Alt.jpg/revision/latest?cb=20230223054959"
+  },
+  {
+   "name": "Cupid Asexual"
+  }
+ ]
+}
