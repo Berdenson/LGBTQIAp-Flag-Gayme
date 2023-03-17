@@ -4,6 +4,7 @@ import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
+import org.json.simple.parser.ParseException;
 
 import java.io.IOException;
 import java.net.MalformedURLException;
@@ -14,7 +15,7 @@ import static com.github.berdenson.lgbrqpflaggame.Flags.setFlags;
 
 public class HelloApplication extends Application {
     @Override
-    public void start(Stage stage) throws IOException {
+    public void start(Stage stage) throws IOException, ParseException {
         setFlags();
         System.out.println(getRandomFlag());
         FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("flag-view.fxml"));
@@ -26,7 +27,6 @@ public class HelloApplication extends Application {
 
     public static void main(String[] args) {
         launch();
-        setFlags();
     }
     public static URL newURL(String url) {
         try {

@@ -2,6 +2,8 @@ package com.github.berdenson.lgbrqpflaggame;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.net.URLDecoder;
+import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Random;
@@ -21,19 +23,25 @@ public class Flags {
     public static void setFlags() throws IOException, ParseException {
 
         // parsing file "JSONExample.json"
-        Object obj = new JSONParser().parse(new FileReader("JSONExample.json"));
-
+        Object obj = new JSONParser().parse(getRes("aro flags.json"));
+        System.out.println(obj);
         for (int i = 0; i < 5; i++) {
             
         }
-            
-        }
+
     }
     private static void addFlag(String name, String url) {
         flags.add(new Flag(name,url));
     }
     public static Flag getRandomFlag() {
         Random random = new Random();
-        return flags.get(random.nextInt(flags.size()));
+        int max = 1;
+        if (flags.size() != 0) { max = flags.size(); }
+        return flags.get(random.nextInt(max));
+    }
+    private static FileReader getRes(String name) throws FileNotFoundException {
+        String path = URLDecoder.decode(String.valueOf(Flags.class.getResource(name)), StandardCharsets.UTF_8).split(":")[1];
+        return new FileReader(path);
+
     }
 }
