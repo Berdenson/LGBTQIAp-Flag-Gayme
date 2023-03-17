@@ -24,10 +24,15 @@ public class Flags {
 
         // parsing file "JSONExample.json"
         Object obj = new JSONParser().parse(getRes("aro flags.json"));
-        System.out.println(obj);
-        for (int i = 0; i < 5; i++) {
-            
-        }
+
+        // typecasting obj to JSONObject
+        JSONObject jo = (JSONObject) obj;
+
+//        System.out.println(obj);
+//        for (int i = 0; i < 5; i++) {
+//            addFlag((String) jo.get("name"), (String) jo.get("flagIMG"));
+//        }
+        addFlag("example", "www.example.com");
 
     }
     private static void addFlag(String name, String url) {
