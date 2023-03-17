@@ -1,0 +1,378 @@
+{
+ "identityPage": [
+  {
+   "name": "Abimegender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/4/45/Abimegenderog.png/revision/latest?cb=20221017235459"
+  },
+  {
+   "name": "Abracagender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/6/6c/Abracagender.png/revision/latest?cb=20210419170128"
+  },
+  {
+   "name": "Acturigender"
+  },
+  {
+   "name": "Adustusgender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/5/57/Adustusgender.png/revision/latest?cb=20210422171201"
+  },
+  {
+   "name": "Aerogender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/d/da/Aerogender2.png/revision/latest?cb=20210506010823"
+  },
+  {
+   "name": "Aesigender"
+  },
+  {
+   "name": "Aesthetegender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/0/0b/Aesthetigender.png/revision/latest?cb=20210417143441"
+  },
+  {
+   "name": "Aethergender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/6/6a/Aethergender.png/revision/latest?cb=20210428155112"
+  },
+  {
+   "name": "Akugender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/c/cc/Akugender_simple.png/revision/latest?cb=20210429180757"
+  },
+  {
+   "name": "Aliengender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/a/a8/Aliengender.png/revision/latest?cb=20210425163544"
+  },
+  {
+   "name": "Alkaligender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/a/a8/Alkaligender.png/revision/latest?cb=20210504040608"
+  },
+  {
+   "name": "Alolagender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/9/9c/Alolagender.png/revision/latest?cb=20210425165527"
+  },
+  {
+   "name": "Altegender"
+  },
+  {
+   "name": "Amanitagender"
+  },
+  {
+   "name": "Amoureuxgender"
+  },
+  {
+   "name": "Angeligender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/5/55/Angeligender2.png/revision/latest?cb=20211101033340"
+  },
+  {
+   "name": "Antagogender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/e/e4/Antagogender.png/revision/latest?cb=20211101034001"
+  },
+  {
+   "name": "Antiquegender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/5/59/Antiquegender.png/revision/latest?cb=20210506020332"
+  },
+  {
+   "name": "Anubiagender"
+  },
+  {
+   "name": "Aquatigender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/8/8a/Aquatigender.png/revision/latest?cb=20210504043800"
+  },
+  {
+   "name": "Arcanagender"
+  },
+  {
+   "name": "Arcaneagender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/1/16/Arcaneagender.png/revision/latest?cb=20211114144159"
+  },
+  {
+   "name": "Archaeogender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/a/af/Archaeogender.png/revision/latest?cb=20211113235645"
+  },
+  {
+   "name": "Archaigender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/8/87/Archaigender.png/revision/latest?cb=20210524021144"
+  },
+  {
+   "name": "Arcturigender"
+  },
+  {
+   "name": "Arkhaigender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/1/12/Arkhaigender.png/revision/latest?cb=20211103130335"
+  },
+  {
+   "name": "Aslagender"
+  },
+  {
+   "name": "Aureusgender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/3/3b/Aureusgender.png/revision/latest?cb=20220420200426"
+  },
+  {
+   "name": "Auroragender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/a/a0/Auroragender.png/revision/latest?cb=20210418001040"
+  },
+  {
+   "name": "Backroomgender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/8/8d/Backroomgender_flag.png/revision/latest?cb=20230201081252"
+  },
+  {
+   "name": "Beangender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/e/e2/Beangender2_simple.png/revision/latest?cb=20211020020209"
+  },
+  {
+   "name": "Beetlegender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/c/c4/Beetlegender2_simple.png/revision/latest?cb=20210429170547"
+  },
+  {
+   "name": "Bellagender"
+  },
+  {
+   "name": "Beorgender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/1/1e/Klimigender.png/revision/latest?cb=20210511123341"
+  },
+  {
+   "name": "Beysgender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/c/c7/Beysgender.png/revision/latest?cb=20210510211248"
+  },
+  {
+   "name": "Buggender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/1/17/Buggender.png/revision/latest?cb=20210429135136"
+  },
+  {
+   "name": "Bungender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/8/83/Bungender2.png/revision/latest?cb=20220327185223"
+  },
+  {
+   "name": "Butterflygender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/a/a8/Butterflygender_simple.png/revision/latest?cb=20210504030355"
+  },
+  {
+   "name": "Caldusgender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/8/8d/Caldusgender_simple.png/revision/latest?cb=20210520141600"
+  },
+  {
+   "name": "Canisgender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/4/46/Canisgender.png/revision/latest?cb=20210421032404"
+  },
+  {
+   "name": "Catboygender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/b/b6/Catboygender2.png/revision/latest?cb=20210418131236"
+  },
+  {
+   "name": "Catgender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/9/9c/Alternate_catgender_flag.png/revision/latest?cb=20220806090656"
+  },
+  {
+   "name": "Catmascgender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/2/27/Catmascgender.png/revision/latest?cb=20210505003634"
+  },
+  {
+   "name": "Felisgender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/2/29/TheGamblingDemon_Felisgender.png/revision/latest?cb=20211020123443"
+  },
+  {
+   "name": "Cealgender"
+  },
+  {
+   "name": "Cherozagender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/d/d3/Cherozagender_flag.png/revision/latest?cb=20230123080034"
+  },
+  {
+   "name": "Circgender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/e/ed/Circegender.png/revision/latest?cb=20210504034428"
+  },
+  {
+   "name": "Contigender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/d/dd/Contigender.png/revision/latest?cb=20211210022430"
+  },
+  {
+   "name": "Cordycepgender"
+  },
+  {
+   "name": "Corpsegender"
+  },
+  {
+   "name": "Cottoncandygender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/1/18/Cottoncandygender.png/revision/latest?cb=20210418140629"
+  },
+  {
+   "name": "Crepusculumgender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/9/9a/Crepusculumgender.png/revision/latest?cb=20210511123900"
+  },
+  {
+   "name": "Cryogender"
+  },
+  {
+   "name": "Cryptidgender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/f/f9/Cryptidgender.png/revision/latest?cb=20210422230430"
+  },
+  {
+   "name": "Crystalchigender"
+  },
+  {
+   "name": "Cuddlegender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/b/b8/Cuddlegender.png/revision/latest?cb=20210428163857"
+  },
+  {
+   "name": "Combatgender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/e/e0/Combatgender.png/revision/latest?cb=20210927100337"
+  },
+  {
+   "name": "Demicatgender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/8/85/Snotdrips_Demicat.png/revision/latest?cb=20210418015151"
+  },
+  {
+   "name": "Dermagender"
+  },
+  {
+   "name": "Dollgender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/6/6e/Reclaimed_Dollgender_flag.png/revision/latest?cb=20220624191617"
+  },
+  {
+   "name": "Demongender"
+  },
+  {
+   "name": "Ecogender"
+  },
+  {
+   "name": "Emocatgender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/f/f6/Emocatgender.png/revision/latest?cb=20210421032850"
+  },
+  {
+   "name": "Emogender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/c/c2/Emogender.png/revision/latest?cb=20210421131423"
+  },
+  {
+   "name": "Emotugender"
+  },
+  {
+   "name": "Empereurgender"
+  },
+  {
+   "name": "Enigender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/a/ae/Enigender_Flag.png/revision/latest?cb=20221211195801"
+  },
+  {
+   "name": "Ethergender"
+  },
+  {
+   "name": "Étoilegender"
+  },
+  {
+   "name": "Fairycatgender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/0/00/Fairycatgender_simple.png/revision/latest?cb=20210423150623"
+  },
+  {
+   "name": "Fairypupgender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/a/ab/Fairypupgender_simple.png/revision/latest?cb=20210504051239"
+  },
+  {
+   "name": "Felidegender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/c/ce/Felidegender.png/revision/latest?cb=20211210013835"
+  },
+  {
+   "name": "Feligender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/5/56/Clear_Skyes_Feligender.png/revision/latest?cb=20211210032339"
+  },
+  {
+   "name": "Felisgender"
+  },
+  {
+   "name": "Feralagender"
+  },
+  {
+   "name": "Feralgender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/3/36/Feralgender2.png/revision/latest?cb=20220421145845"
+  },
+  {
+   "name": "Ferveogender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/3/32/Ferveogender.jpg/revision/latest?cb=20221130181324"
+  },
+  {
+   "name": "Fictigender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/c/c7/Fictigender.png/revision/latest?cb=20210428164515"
+  },
+  {
+   "name": "Floragender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/e/e0/Floragender2.png/revision/latest?cb=20210428150917"
+  },
+  {
+   "name": "Flosgender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/e/e6/Flosgender.png/revision/latest?cb=20210421183900"
+  },
+  {
+   "name": "Flurrigender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/c/c3/Flurrigender.png/revision/latest?cb=20211103181202"
+  },
+  {
+   "name": "Foodgender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/c/c6/Gastrogender.png/revision/latest?cb=20210504045450"
+  },
+  {
+   "name": "Fugogender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/4/45/Fugogender.png/revision/latest?cb=20211103134809"
+  },
+  {
+   "name": "Galargender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/1/1c/Galargender.png/revision/latest?cb=20210428042527"
+  },
+  {
+   "name": "Gamegender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/3/33/Gamegender.png/revision/latest?cb=20210502153930"
+  },
+  {
+   "name": "Gapongender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/8/89/Gapongender.png/revision/latest?cb=20210423142252"
+  },
+  {
+   "name": "Foodgender"
+  },
+  {
+   "name": "Giftgender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/d/d2/Christmasgender.jpg/revision/latest?cb=20211124010102"
+  },
+  {
+   "name": "Gigagender"
+  },
+  {
+   "name": "Glittergender"
+  },
+  {
+   "name": "Havocgender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/6/61/Havocgender.png/revision/latest?cb=20220327175838"
+  },
+  {
+   "name": "Helicgender"
+  },
+  {
+   "name": "Hellgender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/6/61/Hellgender.png/revision/latest?cb=20211124014525"
+  },
+  {
+   "name": "Hiérophgender"
+  },
+  {
+   "name": "Hoenngender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/e/e7/Hoenngender.png/revision/latest?cb=20210422233200"
+  },
+  {
+   "name": "Impéragender"
+  },
+  {
+   "name": "Incurrogender"
+  },
+  {
+   "name": "Indigochigender"
+  },
+  {
+   "name": "Instauragender"
+  },
+  {
+   "name": "Jellogender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/e/e8/Jellogender.png/revision/latest?cb=20220112012513"
+  },
+  {
+   "name": "Johtogender",
+   "flagIMG": "https://static.wikia.nocookie.net/mogai-genders/images/c/c9/Johtogender.png/revision/latest?cb=20210422232856"
+  },
+  {
+   "name": "Joxtergender"
+  }
+ ]
+}
