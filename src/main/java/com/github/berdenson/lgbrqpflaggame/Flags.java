@@ -22,10 +22,11 @@ import org.json.simple.parser.*;
 public class Flags {
     public static ArrayList<Flag> flags = new ArrayList<>();
 
-    public static void setFlags() {
-
-
-
+    public static void setFlags() throws IOException, ParseException {
+        addFile("aro flags.json");
+        addFile("aroace flags.json");
+        addFile("lgbtqia flags.json");
+        addFile("xenogender flags.json");
     }
     private static void addFlag(String name, String url) {
         flags.add(new Flag(name,url));
