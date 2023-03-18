@@ -13,12 +13,12 @@ import java.net.URL;
 import static com.github.berdenson.lgbrqpflaggame.Flags.getRandomFlag;
 import static com.github.berdenson.lgbrqpflaggame.Flags.setFlags;
 
-public class HelloApplication extends Application {
+public class FlagGame extends Application {
     @Override
     public void start(Stage stage) throws IOException, ParseException {
         setFlags();
         System.out.println(getRandomFlag());
-        FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("flag-view.fxml"));
+        FXMLLoader fxmlLoader = new FXMLLoader(FlagGame.class.getResource("flag-view.fxml"));
         Scene scene = new Scene(fxmlLoader.load(), 800, 600);
         stage.setTitle("LGBTQIA+ Flag Gayme");
         stage.setScene(scene);

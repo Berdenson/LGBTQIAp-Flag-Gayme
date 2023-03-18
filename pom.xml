@@ -72,7 +72,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.github.berdenson.lgbrqpflaggame/com.github.berdenson.lgbrqpflaggame.HelloApplication
+                                com.github.berdenson.lgbrqpflaggame/com.github.berdenson.lgbrqpflaggame.FlagGame
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
