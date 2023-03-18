@@ -1,3 +1,5 @@
+![It's a picture of gay flag](https://cdn.discordapp.com/attachments/952768268131790920/1086763473008074752/image.png "gay")
+
 # LGBTQIAp-Flag-Gayme
 
 *It's a flag game*
