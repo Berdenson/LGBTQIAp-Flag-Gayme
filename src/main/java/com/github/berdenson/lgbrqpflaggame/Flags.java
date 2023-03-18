@@ -22,22 +22,23 @@ import org.json.simple.parser.*;
 public class Flags {
     public static ArrayList<Flag> flags = new ArrayList<>();
 
-    public static void setFlags() throws IOException, ParseException {
+    public static void setFlags() {
 
+
+
+    }
+    private static void addFlag(String name, String url) {
+        flags.add(new Flag(name,url));
+    }
+
+    public static void addFile(String file) throws IOException, ParseException {
         // parsing file "JSONExample.json"
-        Object obj = new JSONParser().parse(getRes("aro flags.json"));
+        Object obj = new JSONParser().parse(getRes(file));
 
         // typecasting obj to JSONObject
         JSONObject jo = (JSONObject) obj;
 
         JSONArray ja = (JSONArray) jo.get("flags");
-
-//        for (int i = 0; i < ja.size(); i++) {
-//            String name = jo.get(i).getString("name");
-//            System.out.println(name);
-//        }
-
-        addFlag("example", "www.example.com");
 
         Iterator itr2 = ja.iterator();
 
@@ -56,16 +57,13 @@ public class Flags {
             if (identity.size() == 2) {
                 if (!identity.get(1).equals("")) {
                     addFlag(identity.get(0), identity.get(1));
-                    System.out.println(identity.get(0) + " " + identity.get(1));
+//                    System.out.println(identity.get(0) + " " + identity.get(1));
                 }
             }
 
         }
+    }
 
-    }
-    private static void addFlag(String name, String url) {
-        flags.add(new Flag(name,url));
-    }
     public static Flag getRandomFlag() {
         Random random = new Random();
         int max = 1;
