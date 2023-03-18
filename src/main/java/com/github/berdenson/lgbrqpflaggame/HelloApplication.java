@@ -28,6 +28,12 @@ public class HelloApplication extends Application {
     public static void main(String[] args) {
         launch();
     }
+
+    /**
+     * makes a url cause it's a pain
+     * @param url :) url (it's a url string)
+     * @return the B) cooler url (It's a url object)
+     */
     public static URL newURL(String url) {
         try {
             URL urls = new URL(url);

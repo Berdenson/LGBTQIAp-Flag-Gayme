@@ -23,6 +23,11 @@ public class Flags {
     public static ArrayList<Flag> flags = new ArrayList<>();
     public static ArrayList<Flag> countryFlags = new ArrayList<>();
 
+    /**
+     * Adds the flags to a list, should only be run once.
+     * @throws IOException
+     * @throws ParseException
+     */
     public static void setFlags() throws IOException, ParseException {
         addFile("aro flags.json");
         addFile("aroace flags.json");
@@ -30,10 +35,22 @@ public class Flags {
         addFile("xenogender flags.json");
         addCountryFile();
     }
+
+    /**
+     * Adds a flag to the list.
+     * @param name name of the identity/flag
+     * @param url url linking to a picture of the flag
+     */
     private static void addFlag(String name, String url) {
         flags.add(new Flag(name,url));
     }
 
+    /**
+     * Adds an entire file of flags to the list.
+     * @param file - .json file
+     * @throws IOException
+     * @throws ParseException
+     */
     public static void addFile(String file) throws IOException, ParseException {
         // parsing file "JSONExample.json"
         Object obj = new JSONParser().parse(getRes(file));
@@ -52,21 +69,31 @@ public class Flags {
             itr1 = ((Map) itr2.next()).entrySet().iterator();
             ArrayList<String> identity = new ArrayList<String>();
 
+            /* adds each attribute sequentially to a small arraylist */
             while (itr1.hasNext()) {
                 Map.Entry pair = itr1.next();
                 identity.add((String) pair.getValue());
             }
 
+            /*
+             * makes sure that the identity is a full one (contains both a name and a url)
+             * if so, it adds the identity to the list
+             */
             if (identity.size() == 2) {
                 if (!identity.get(1).equals("")) {
                     addFlag(identity.get(0), identity.get(1));
-//                    System.out.println(identity.get(0) + " " + identity.get(1));
+//                    System.out.println(identity.get(0) + " " + identity.get(1)); // prints out the identities
                 }
             }
 
         }
     }
 
+    /**
+     * Adds the country file.
+     * @throws IOException
+     * @throws ParseException
+     */
     public static void addCountryFile() throws IOException, ParseException {
         // parsing file "JSONExample.json"
         Object obj = new JSONParser().parse(getRes("countries.json"));
@@ -85,25 +112,24 @@ public class Flags {
             itr1 = ((Map) itr2.next()).entrySet().iterator();
             ArrayList<String> identity = new ArrayList<String>();
 
+            /* adds each attribute sequentially to a small arraylist */
             while (itr1.hasNext()) {
                 Map.Entry pair = itr1.next();
                 identity.add((String) pair.getValue());
             }
 
-//            for (int i = 0; i < identity.size(); i++) {
-//                System.out.println(identity.get(i));
-//            }
-//
-//            System.out.println("");
-
             countryFlags.add(new Flag(identity.get(2),identity.get(0)));
-            System.out.println(identity.get(2) + ", " + identity.get(0));
         }
     }
 
+    /**
+     * Gets a random flag
+     * @return a random flag
+     */
     public static Flag getRandomFlag() {
         Random random = new Random();
 
+        /* random chance to generate a country flag (1 in 100) */
         if(random.nextInt(100) == 1) {
             int max = 1;
             if (countryFlags.size() != 0) { max = countryFlags.size(); }
