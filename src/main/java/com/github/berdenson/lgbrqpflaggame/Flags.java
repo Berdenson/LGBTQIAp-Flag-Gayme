@@ -21,12 +21,14 @@ import org.json.simple.parser.*;
 
 public class Flags {
     public static ArrayList<Flag> flags = new ArrayList<>();
+    public static ArrayList<Flag> countryFlags = new ArrayList<>();
 
     public static void setFlags() throws IOException, ParseException {
         addFile("aro flags.json");
         addFile("aroace flags.json");
         addFile("lgbtqia flags.json");
         addFile("xenogender flags.json");
+        addCountryFile();
     }
     private static void addFlag(String name, String url) {
         flags.add(new Flag(name,url));
@@ -65,8 +67,49 @@ public class Flags {
         }
     }
 
+    public static void addCountryFile() throws IOException, ParseException {
+        // parsing file "JSONExample.json"
+        Object obj = new JSONParser().parse(getRes("countries.json"));
+
+        // typecasting obj to JSONObject
+        JSONObject jo = (JSONObject) obj;
+
+        JSONArray ja = (JSONArray) jo.get("flags");
+
+        Iterator itr2 = ja.iterator();
+
+        Iterator<Map.Entry> itr1;
+
+        while (itr2.hasNext()) {
+
+            itr1 = ((Map) itr2.next()).entrySet().iterator();
+            ArrayList<String> identity = new ArrayList<String>();
+
+            while (itr1.hasNext()) {
+                Map.Entry pair = itr1.next();
+                identity.add((String) pair.getValue());
+            }
+
+//            for (int i = 0; i < identity.size(); i++) {
+//                System.out.println(identity.get(i));
+//            }
+//
+//            System.out.println("");
+
+            countryFlags.add(new Flag(identity.get(2),identity.get(0)));
+            System.out.println(identity.get(2) + ", " + identity.get(0));
+        }
+    }
+
     public static Flag getRandomFlag() {
         Random random = new Random();
+
+        if(random.nextInt(100) == 1) {
+            int max = 1;
+            if (countryFlags.size() != 0) { max = countryFlags.size(); }
+            return countryFlags.get(random.nextInt(max));
+        }
+
         int max = 1;
         if (flags.size() != 0) { max = flags.size(); }
         return flags.get(random.nextInt(max));

@@ -31,7 +31,7 @@ public class FlagController {
     }
     @FXML
     private void newIdent() {
-        revealIdentity("Press me to real the identity");
+        revealIdentity("Press me to reveal the identity");
         flag = getRandomFlag();
         setPhoto(flag.url());
     }
